@@ -1,8 +1,0 @@
-<resources>
-    <string name="app_name">Adopcion</string>
-    <string-array name="Tipo_Mascotita">
-        <item>----</item>
-        <item>Perro</item>
-        <item>Gato</item>
-    </string-array>
-</resources>
